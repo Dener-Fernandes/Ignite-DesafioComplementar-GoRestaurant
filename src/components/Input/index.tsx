@@ -51,4 +51,4 @@ export default function Input({ name, icon: Icon, ...rest }: InputProps) {
       />
     </Container>
   );
-};
+}

@@ -42,5 +42,4 @@ export default function Modal({ isOpen, setIsOpen, children }: ModalProps) {
       {children}
     </ReactModal>
   );
-
 }
